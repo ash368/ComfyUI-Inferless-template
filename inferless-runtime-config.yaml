@@ -5,6 +5,7 @@ build:
     - "libgl1-mesa-glx"
   python_packages:
     - "comfy-cli==1.2.3"
+    - "websocket"
     - "websocket-client==1.6.4"
     - "accelerate==0.23.0"
     - "opencv-python==4.10.0.84"
